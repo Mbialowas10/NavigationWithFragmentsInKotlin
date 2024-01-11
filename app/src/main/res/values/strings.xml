@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home Fragment</string>
+    <string name="search_fragment">Search Fragment</string>
+    <string name="profile_fragment">Profile/Settings Fragment</string>
+</resources>
